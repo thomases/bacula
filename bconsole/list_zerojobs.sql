@@ -1,3 +1,5 @@
+-- -*- mode: sql -*-
+
 -- Put this in your query.sql to select it from the query menu in
 -- bconsole
 

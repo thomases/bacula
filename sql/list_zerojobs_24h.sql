@@ -1,3 +1,5 @@
+-- -*- mode: sql -*-
+
 -- list backup ast 24hrs that are successful but actualy backed up nothing.
 -- these backups can be dangerous, as they seem to do what they should, but they
 -- should be invstigated to see if there are conditions that bacula treats as OK but
